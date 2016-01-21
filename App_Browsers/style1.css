@@ -1,0 +1,46 @@
+﻿
+BODY {
+	BACKGROUND: #8D89EA; MARGIN: 0px; FONT: 9pt 宋体
+}
+table {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+td {
+	FONT: 12px 宋体
+}
+img {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; VERTICAL-ALIGN: bottom; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+A {
+	FONT: 12px 宋体; COLOR: #215dc6; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #428eff
+}
+.sec_menu {
+	BORDER-RIGHT: white 1px solid; BACKGROUND:#E0DEFD; OVERFLOW: hidden; BORDER-LEFT: white 1px solid; BORDER-BOTTOM: white 1px solid
+}
+.list_title {
+	
+}
+.list_title span {
+	FONT-WEIGHT: bold;
+	LEFT: 8px;
+	COLOR: #3E38A4;
+	POSITION: relative;
+	TOP: 2px;
+	visibility: visible;
+}
+.list_title2 {
+	
+}
+.list_title2 span {
+	FONT-WEIGHT: bold; LEFT: 8px; COLOR: #3E38A4; POSITION: relative; TOP: 2px
+}
+
+table{font-size:12px}
+	 .titl{font-size:12px ;color:#ffffff }
+	 .titl :link{font-size:12px ;color:#ffffff; text-decoration:none}
+	  .titl :visited{font-size:12px ;color:#ffffff; text-decoration:none}
+	   .titl :active{font-size:12px ;color:#ffffff; text-decoration:none}
+	    .titl :hover{font-size:12px ;color:#ffff00; text-decoration:none}

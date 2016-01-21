@@ -1,0 +1,54 @@
+BODY {
+	MARGIN: 0px
+}
+P {
+	MARGIN: 6px
+}
+A.navlink:link {
+	FONT-SIZE: 12px; COLOR: #f4f4f4; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.navlink:visited {
+	FONT-SIZE: 12px; COLOR: #f4f4f4; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A.navlink:hover {
+	FONT-SIZE: 12px; COLOR: white; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+BODY {
+	FONT-SIZE: 12px; LINE-HEIGHT: normal; FONT-FAMILY: 宋体
+}
+td {
+	FONT-SIZE: 12px; LINE-HEIGHT: normal; FONT-FAMILY: 宋体
+}
+TH {
+	FONT-SIZE: 12px; LINE-HEIGHT: normal; FONT-FAMILY: 宋体
+}
+.textbox1 {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: "新宋体"
+}
+.bluebox {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; BORDER-LEFT: #333333 1px solid; BORDER-BOTTOM: #333333 1px solid; HEIGHT: 30px; BACKGROUND-COLOR: #e1eaf3
+}
+td.bottomline {
+	BORDER-BOTTOM: #999999 1px solid
+}
+.bottomline {
+	BORDER-BOTTOM: #999999 1px solid
+}
+.textbox {
+	BORDER-RIGHT: #003366 1px solid; BORDER-TOP: #003366 1px solid; BORDER-LEFT: #003366 1px solid; BORDER-BOTTOM: #003366 1px solid; HEIGHT: 20px
+}
+.listbox {
+	BORDER-RIGHT: #003366 1px solid; BORDER-TOP: #003366 1px solid; BORDER-LEFT: #003366 1px solid; BORDER-BOTTOM: #003366 1px solid
+}
+.button {
+	BORDER-RIGHT: #002d96 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #002d96 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 0px; MARGIN: 0px 2px; BORDER-LEFT: #002d96 1px solid; CURSOR: hand; COLOR: #003366; PADDING-TOP: 2px; BORDER-BOTTOM: #002d96 1px solid; HEIGHT: 20px
+}
